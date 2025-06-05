@@ -14,3 +14,7 @@
 	path = brew
 	url = git@github.com-personal:masanao-ohba/brew.git
 	branch = main
+[submodule ".config/starship"]
+	path = .config/starship
+	url = git@github.com-personal:masanao-ohba/starship.git
+	branch = main
