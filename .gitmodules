@@ -1,0 +1,16 @@
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com-personal:masanao-ohba/zsh
+	branch = main
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = git@github.com-personal:masanao-ohba/neovim.git
+	branch = main
+[submodule ".config/wezterm"]
+	path = .config/wezterm
+	url = git@github.com-personal:masanao-ohba/wezterm.git
+	branch = main
+[submodule "brew"]
+	path = brew
+	url = git@github.com-personal:masanao-ohba/brew.git
+	branch = main
