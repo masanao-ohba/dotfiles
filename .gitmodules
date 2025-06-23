@@ -18,3 +18,11 @@
 	path = .config/starship
 	url = git@github.com-personal:masanao-ohba/starship.git
 	branch = main
+[submodule ".config/yabai"]
+	path = .config/yabai
+	url = git@github.com-personal:masanao-ohba/yabai.git
+	branch = main
+[submodule ".config/skhd"]
+	path = .config/skhd
+	url = git@github.com-personal:masanao-ohba/skhd.git
+	branch = main
