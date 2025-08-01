@@ -26,3 +26,7 @@
 	path = .config/skhd
 	url = git@github.com-personal:masanao-ohba/skhd.git
 	branch = main
+[submodule ".config/lazygit"]
+	path = .config/lazygit
+	url = git@github.com-personal:masanao-ohba/lazygit.git
+	branch = main
