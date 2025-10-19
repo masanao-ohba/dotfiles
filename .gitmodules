@@ -1,32 +1,36 @@
 [submodule "zsh"]
 	path = zsh
-	url = git@github.com-personal:masanao-ohba/zsh
+	url = git@github.com:masanao-ohba/zsh
 	branch = main
 [submodule ".config/nvim"]
 	path = .config/nvim
-	url = git@github.com-personal:masanao-ohba/neovim.git
+	url = git@github.com:masanao-ohba/neovim.git
 	branch = main
 [submodule ".config/wezterm"]
 	path = .config/wezterm
-	url = git@github.com-personal:masanao-ohba/wezterm.git
+	url = git@github.com:masanao-ohba/wezterm.git
 	branch = main
 [submodule "brew"]
 	path = brew
-	url = git@github.com-personal:masanao-ohba/brew.git
+	url = git@github.com:masanao-ohba/brew.git
 	branch = main
 [submodule ".config/starship"]
 	path = .config/starship
-	url = git@github.com-personal:masanao-ohba/starship.git
+	url = git@github.com:masanao-ohba/starship.git
 	branch = main
 [submodule ".config/yabai"]
 	path = .config/yabai
-	url = git@github.com-personal:masanao-ohba/yabai.git
+	url = git@github.com:masanao-ohba/yabai.git
 	branch = main
 [submodule ".config/skhd"]
 	path = .config/skhd
-	url = git@github.com-personal:masanao-ohba/skhd.git
+	url = git@github.com:masanao-ohba/skhd.git
 	branch = main
 [submodule ".config/lazygit"]
 	path = .config/lazygit
-	url = git@github.com-personal:masanao-ohba/lazygit.git
+	url = git@github.com:masanao-ohba/lazygit.git
+	branch = main
+[submodule ".claude"]
+	path = .claude
+	url = git@github.com:masanao-ohba/claude-manifests.git
 	branch = main

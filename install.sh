@@ -46,4 +46,10 @@ for dir in */; do
   stow "$dir"
 done
 
+# === 6. .claude ディレクトリを ~/ に stow ===
+if [ -d ".claude" ]; then
+  echo "🔗 Stowing .claude → ~/.claude"
+  stow .claude
+fi
+
 echo "✅ Setup complete!"
