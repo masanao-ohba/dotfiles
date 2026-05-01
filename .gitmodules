@@ -1,7 +1,7 @@
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:masanao-ohba/zsh
-	branch = main
+	branch = ish
 [submodule ".config/nvim"]
 	path = .config/nvim
 	url = git@github.com:masanao-ohba/neovim.git
