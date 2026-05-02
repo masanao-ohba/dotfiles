@@ -17,7 +17,7 @@
 [submodule ".config/starship"]
 	path = .config/starship
 	url = git@github.com:masanao-ohba/starship.git
-	branch = main
+	branch = ish
 [submodule ".config/yabai"]
 	path = .config/yabai
 	url = git@github.com:masanao-ohba/yabai.git
