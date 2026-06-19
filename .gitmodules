@@ -30,7 +30,6 @@
 	path = .config/lazygit
 	url = git@github.com:masanao-ohba/lazygit.git
 	branch = main
-[submodule ".claude"]
-	path = .claude
+[submodule "claude/.claude"]
+	path = claude/.claude
 	url = git@github.com:masanao-ohba/claude-manifests.git
-	branch = main
